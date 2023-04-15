@@ -1,0 +1,28 @@
+body
+{
+  background-color: #D8D8D8;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #2D2727;
+  border-width: 5px;
+  width: 3%;
+   }
+h1 {
+  color: #19A7CE;
+   }
+h2{
+  color: #19A7CE;
+   }
+h3{
+   color:#19A7CE;
+  }
+h4{
+   color:#19A7CE;
+  }
+.copyright{
+color: #EAF6F6;
+font-size: 0.75rem;
+padding: 10px 0;
+}
